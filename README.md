@@ -2,7 +2,7 @@
 
 ### I'm [Ismatulla](https://github.com/Ismatulla). I'm Frontend Web  Developer from Uzbekistan👩‍💻
 
-
+[![Telegram Badge](https://img.shields.io/badge/Telegram-4eb7fc?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Ismatulla21)
 [![LinkedIn Badge](https://img.shields.io/badge/Linkedin-1f75ff?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ismatulla-kuyliev-43286a199/)
 [![Email Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ismatilloqoyliyev@gmail.com)
 
