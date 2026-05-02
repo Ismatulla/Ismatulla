@@ -1,6 +1,6 @@
 # Welcome!
 
-### I'm [Ismatulla](https://github.com/Ismatulla). Frontend Reactjs  Developer from Uzbekistan👩‍💻
+### I'm [Ismatulla](https://github.com/Ismatulla). Fullstack   Developer from Uzbekistan👩‍💻
 
 [![Telegram Badge](https://img.shields.io/badge/Telegram-4eb7fc?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Ismatulla21)
 [![LinkedIn Badge](https://img.shields.io/badge/Linkedin-1f75ff?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ismatulla-kuyliev-43286a199/)
